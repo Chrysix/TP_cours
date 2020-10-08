@@ -74,11 +74,7 @@ namespace TP1
 
             String race;
 
-            String Elfe;
-
-            String Humain;
-
-            String Orc;
+            
 
             int pv = 100;
 
@@ -94,10 +90,15 @@ namespace TP1
 
 
             race = Console.ReadLine();
-            
 
 
-           
+            while (race != "Elfe" && race != "Orc" && race != "Humain")
+            {
+                Console.WriteLine("Saisir votre race");
+                race = Console.ReadLine();
+
+            }
+
 
 
             if (race == "Elfe")
