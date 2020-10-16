@@ -1,0 +1,7 @@
+C:\Users\Utilisateur\Desktop\C#Cours\Cours3\Cours3\bin\Debug\Cours3.exe.config
+C:\Users\Utilisateur\Desktop\C#Cours\Cours3\Cours3\bin\Debug\Cours3.exe
+C:\Users\Utilisateur\Desktop\C#Cours\Cours3\Cours3\bin\Debug\Cours3.pdb
+C:\Users\Utilisateur\Desktop\C#Cours\Cours3\Cours3\obj\Debug\Cours3.csprojAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\C#Cours\Cours3\Cours3\obj\Debug\Cours3.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\C#Cours\Cours3\Cours3\obj\Debug\Cours3.exe
+C:\Users\Utilisateur\Desktop\C#Cours\Cours3\Cours3\obj\Debug\Cours3.pdb
